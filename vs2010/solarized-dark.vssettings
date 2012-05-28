@@ -69,6 +69,7 @@
 							<Item Name="Refactoring Current Field" Foreground="0x01000000" Background="0x00D5E8EE" BoldFont="No"/>
 							<Item Name="Refactoring Dependent Field" Foreground="0x00D5E8EE" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Register Data Changed" Foreground="0x002F32DC" Background="0x02000000" BoldFont="No"/>
+							<Item Name="ReSharper Current Line Highlight" Foreground="0x00423607" Background="0x00423607" BoldFont="No"/>
 							<Item Name="Script Comment" Foreground="0x00756E58" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Script Keyword" Foreground="0x00009985" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Script Number" Foreground="0x0098A12A" Background="0x02000000" BoldFont="No"/>
